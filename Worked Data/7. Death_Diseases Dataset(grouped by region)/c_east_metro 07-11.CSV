@@ -1,0 +1,38 @@
+AM Condition,,,Number of deaths,,"Standardised Rate per 100,000 Persons",Lower limit of 95% CI,Upper limit of 95% CI
+Total avoidable mortality,,,4413,,92.08,89.36,94.8
+Ischaemic heart disease,,,839,,17.6,16.41,18.79
+Breast cancer,,,451,,8.94,8.11,9.76
+Colorectal cancer,,,425,,8.77,7.94,9.61
+Suicide and self-inflicted injuries,,,378,,8.06,7.24,8.87
+Cerebrovascular diseases,,,373,,7.7,6.92,8.49
+COPD,,,221,,4.54,3.95,5.14
+Transport accidents,,,186,,3.9,3.34,4.47
+Accidental poisoning by and exposure to noxious substances,,,168,,3.67,3.12,4.23
+Skin cancer,,,169,,3.55,3.01,4.08
+Prostate cancer,,,153,,3.27,2.75,3.79
+Diabetes,,,156,,3.24,2.73,3.75
+Selected invasive infections,,,103,,2.14,1.73,2.55
+Complications of the perinatal period,,,85,,1.98,1.56,2.4
+Kidney cancer,,,90,,1.87,1.48,2.26
+Falls,,,76,,1.59,1.23,1.95
+Event of undetermined intent,,,72,,1.52,1.17,1.88
+Renal failure,,,73,,1.5,1.16,1.85
+Heart failure,,,53,,1.09,0.8,1.39
+Rheumatic and other valvular heart disease,,,47,,0.98,0.7,1.26
+Assault,,,31,,0.67,0.43,0.91
+Pulmonary embolism,,,30,,0.62,0.4,0.85
+Asthma,,,26,,0.53,0.32,0.73
+Cervical cancer,,,25,,0.5,0.3,0.7
+Hypertensive heart and renal disease,,,24,,0.49,0.3,0.69
+Other accidental threats to breathing,,,22,,0.46,0.27,0.66
+Accidental drowning and submersion,,,20,,0.43,0.24,0.61
+"Fires, burns",,,18,,0.38,0.2,0.55
+Pepticulcer disease,,,14,,0.29,0.14,0.44
+Accidental exposure to other and unspecified factors,,,12,,0.25,0.11,0.4
+Hodgkins disease,,,11,,0.23,0.09,0.36
+Thyroid cancer,,,10,,0.21,0.08,0.34
+"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",,,9,,0.18,0.06,0.3
+Exposure to inanimate mechanical forces,,,8,,0.17,0.05,0.28
+Sequelae of external causes of morbidity and mortality,,,8,,0.17,0.05,0.28
+HIV / AIDS,,,7,,0.15,0.04,0.27
+Acute lymphoid leukaemia/Acute lymphoblastic leukaemia,,,7,,0.14,0.04,0.25

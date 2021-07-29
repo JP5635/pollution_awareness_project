@@ -1,0 +1,38 @@
+AM Condition,,,Number of deaths,,"Standardised Rate per 100,000 Persons",Lower limit of 95% CI,Upper limit of 95% CI
+Total avoidable mortality,,,5537,,102.89,100.18,105.6
+Ischaemic heart disease,,,1042,,19.69,18.5,20.89
+Suicide and self-inflicted injuries,,,578,,10.65,9.78,11.52
+Colorectal cancer,,,508,,9.53,8.7,10.36
+Breast cancer,,,467,,8.5,7.73,9.28
+COPD,,,390,,7.19,6.48,7.91
+Cerebrovascular diseases,,,376,,7.01,6.3,7.72
+Accidental poisoning by and exposure to noxious substances,,,292,,5.31,4.7,5.92
+Diabetes,,,255,,4.75,4.17,5.34
+Transport accidents,,,190,,3.47,2.98,3.97
+Skin cancer,,,177,,3.33,2.84,3.82
+Selected invasive infections,,,168,,3.12,2.65,3.6
+Prostate cancer,,,144,,2.75,2.3,3.2
+Kidney cancer,,,129,,2.45,2.02,2.87
+Complications of the perinatal period,,,108,,1.9,1.54,2.26
+Renal failure,,,86,,1.61,1.27,1.95
+Heart failure,,,76,,1.41,1.1,1.73
+Falls,,,73,,1.37,1.06,1.69
+Event of undetermined intent,,,65,,1.21,0.92,1.5
+Rheumatic and other valvular heart disease,,,63,,1.17,0.88,1.46
+Assault,,,51,,0.93,0.67,1.18
+Hypertensive heart and renal disease,,,37,,0.69,0.46,0.91
+Cervical cancer,,,32,,0.58,0.38,0.78
+Asthma,,,30,,0.55,0.35,0.75
+Pulmonary embolism,,,29,,0.53,0.34,0.72
+Accidental drowning and submersion,,,24,,0.44,0.26,0.62
+Pepticulcer disease,,,19,,0.35,0.19,0.51
+Exposure to inanimate mechanical forces,,,15,,0.28,0.14,0.42
+Accidental exposure to other and unspecified factors,,,14,,0.27,0.13,0.41
+Thyroid cancer,,,12,,0.23,0.1,0.35
+Hodgkins disease,,,11,,0.21,0.08,0.33
+Other accidental threats to breathing,,,11,,0.21,0.08,0.33
+Sequelae of external causes of morbidity and mortality,,,11,,0.21,0.08,0.33
+HIV / AIDS,,,9,,0.17,0.06,0.28
+"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",,,9,,0.16,0.06,0.27
+"Drugs, medicaments and biological substances causing adverse effects in therapeutic use",,,7,,0.14,0.04,0.24
+Viral pneumonia and influenza,,,7,,0.13,0.03,0.22

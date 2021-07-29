@@ -1,0 +1,29 @@
+AM Condition,,,Number of deaths,,"Standardised Rate per 100,000 Persons",Lower limit of 95% CI,Upper limit of 95% CI
+Total avoidable mortality,,,1359,,118.34,112,124.67
+Ischaemic heart disease,,,271,,22.87,20.13,25.61
+Suicide and self-inflicted injuries,,,115,,11.34,9.25,13.42
+COPD,,,133,,10.73,8.9,12.56
+Colorectal cancer,,,108,,9.21,7.46,10.96
+Cerebrovascular diseases,,,101,,8.4,6.75,10.04
+Accidental poisoning by and exposure to noxious substances,,,71,,7.17,5.5,8.85
+Breast cancer,,,84,,6.96,5.46,8.46
+Diabetes,,,77,,6.55,5.08,8.03
+Selected invasive infections,,,59,,4.91,3.65,6.18
+Transport accidents,,,40,,3.97,2.73,5.21
+Prostate cancer,,,42,,3.45,2.4,4.49
+Skin cancer,,,39,,3.4,2.33,4.48
+Kidney cancer,,,30,,2.49,1.59,3.39
+Falls,,,24,,2.08,1.24,2.91
+Heart failure,,,19,,1.6,0.87,2.33
+Event of undetermined intent,,,15,,1.54,0.76,2.32
+Complications of the perinatal period,,,15,,1.44,0.71,2.17
+Renal failure,,,16,,1.29,0.66,1.93
+Asthma,,,11,,1,0.4,1.6
+Assault,,,10,,0.99,0.37,1.6
+Hypertensive heart and renal disease,,,9,,0.8,0.27,1.33
+Cervical cancer,,,9,,0.75,0.26,1.25
+Rheumatic and other valvular heart disease,,,8,,0.64,0.19,1.08
+Accidental drowning and submersion,,,6,,0.56,0.11,1.02
+Pepticulcer disease,,,6,,0.51,0.1,0.92
+Pulmonary embolism,,,5,,0.43,0.05,0.8
+Viral pneumonia and influenza,,,5,,0.42,0.05,0.78

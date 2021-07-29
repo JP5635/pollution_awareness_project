@@ -1,0 +1,40 @@
+AM Condition,,,Number of deaths,,"Standardised Rate per 100,000 Persons",Lower limit of 95% CI,Upper limit of 95% CI
+Total avoidable mortality,,,6542,,116.13,113.29,118.96
+Ischaemic heart disease,,,1399,,26.5,25.11,27.89
+Colorectal cancer,,,574,,10.75,9.86,11.63
+Suicide and self-inflicted injuries,,,570,,8.84,8.11,9.58
+Cerebrovascular diseases,,,467,,8.61,7.83,9.4
+Breast cancer,,,462,,8.06,7.32,8.79
+Diabetes,,,369,,6.94,6.23,7.65
+COPD,,,359,,6.93,6.21,7.65
+Accidental poisoning by and exposure to noxious substances,,,295,,4.29,3.79,4.78
+Transport accidents,,,258,,3.91,3.43,4.4
+Skin cancer,,,185,,3.33,2.84,3.81
+Prostate cancer,,,163,,3.23,2.74,3.73
+Complications of the perinatal period,,,182,,2.74,2.34,3.14
+Kidney cancer,,,138,,2.55,2.12,2.97
+Selected invasive infections,,,138,,2.52,2.1,2.95
+Falls,,,105,,1.92,1.55,2.29
+Event of undetermined intent,,,126,,1.91,1.58,2.25
+Renal failure,,,97,,1.84,1.47,2.21
+Heart failure,,,89,,1.64,1.3,1.99
+Rheumatic and other valvular heart disease,,,59,,1.07,0.8,1.35
+Assault,,,67,,1.02,0.77,1.26
+"Fires, burns",,,50,,0.85,0.61,1.09
+Pulmonary embolism,,,39,,0.69,0.47,0.91
+Hypertensive heart and renal disease,,,37,,0.68,0.46,0.9
+Cervical cancer,,,35,,0.62,0.41,0.83
+Asthma,,,36,,0.62,0.41,0.82
+Other accidental threats to breathing,,,29,,0.5,0.31,0.68
+HIV / AIDS,,,28,,0.47,0.29,0.64
+Accidental drowning and submersion,,,30,,0.45,0.29,0.61
+Pepticulcer disease,,,24,,0.43,0.26,0.6
+Thyroid cancer,,,22,,0.41,0.24,0.58
+Sequelae of external causes of morbidity and mortality,,,18,,0.32,0.17,0.47
+Exposure to inanimate mechanical forces,,,20,,0.3,0.17,0.44
+Acute lymphoid leukaemia/Acute lymphoblastic leukaemia,,,17,,0.26,0.14,0.38
+Hodgkins disease,,,16,,0.26,0.13,0.39
+"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",,,11,,0.2,0.08,0.32
+Exposure to forces of nature,,,5,,0.09,0.01,0.17
+Accidental exposure to other and unspecified factors,,,5,,0.09,0.01,0.16
+"Drugs, medicaments and biological substances causing adverse effects in therapeutic use",,,5,,0.09,0.01,0.16

@@ -1,0 +1,34 @@
+AM Condition,,,Number of deaths,,"Standardised Rate per 100,000 Persons",Lower limit of 95% CI,Upper limit of 95% CI
+Total avoidable mortality,,,2010,,150.86,144.14,157.57
+Ischaemic heart disease,,,459,,32.19,29.22,35.15
+Transport accidents,,,142,,13.14,10.93,15.35
+Suicide and self-inflicted injuries,,,149,,13.03,10.89,15.16
+COPD,,,157,,10.58,8.92,12.24
+Colorectal cancer,,,149,,10.23,8.57,11.88
+Breast cancer,,,131,,9.7,8.02,11.39
+Cerebrovascular diseases,,,130,,9.18,7.59,10.77
+Diabetes,,,111,,7.84,6.36,9.31
+Accidental poisoning by and exposure to noxious substances,,,58,,5.72,4.23,7.21
+Skin cancer,,,71,,5.2,3.97,6.43
+Prostate cancer,,,74,,4.84,3.74,5.94
+Selected invasive infections,,,50,,3.67,2.63,4.7
+Complications of the perinatal period,,,36,,3.2,2.15,4.24
+Heart failure,,,37,,2.53,1.71,3.34
+Kidney cancer,,,35,,2.5,1.67,3.33
+Renal failure,,,35,,2.32,1.55,3.09
+Rheumatic and other valvular heart disease,,,26,,1.95,1.17,2.73
+Event of undetermined intent,,,20,,1.84,1.02,2.66
+Falls,,,17,,1.25,0.64,1.85
+"Fires, burns",,,12,,1.09,0.46,1.72
+Assault,,,9,,0.88,0.29,1.47
+Pulmonary embolism,,,11,,0.78,0.32,1.25
+Asthma,,,10,,0.72,0.27,1.18
+Hypertensive heart and renal disease,,,10,,0.69,0.26,1.12
+"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",,,7,,0.66,0.15,1.16
+Exposure to inanimate mechanical forces,,,7,,0.56,0.14,0.98
+HIV / AIDS,,,6,,0.47,0.09,0.86
+Pepticulcer disease,,,6,,0.45,0.08,0.82
+Sequelae of external causes of morbidity and mortality,,,5,,0.45,0.04,0.85
+Accidental drowning and submersion,,,5,,0.44,0.05,0.83
+Other accidental threats to breathing,,,5,,0.4,0.04,0.76
+Cervical cancer,,,5,,0.35,0.04,0.67

@@ -1,0 +1,43 @@
+AM Condition,,,Number of deaths,,"Standardised Rate per 100,000 Persons",Lower limit of 95% CI,Upper limit of 95% CI
+Total avoidable mortality,,,6762,,103.26,100.79,105.74
+Ischaemic heart disease,,,1319,,21.3,20.15,22.45
+Colorectal cancer,,,611,,9.74,8.97,10.52
+Suicide and self-inflicted injuries,,,675,,9.04,8.35,9.73
+Cerebrovascular diseases,,,474,,7.59,6.91,8.28
+Breast cancer,,,476,,7.24,6.59,7.89
+COPD,,,442,,7.24,6.56,7.91
+Accidental poisoning by and exposure to noxious substances,,,377,,4.96,4.46,5.47
+Diabetes,,,296,,4.81,4.26,5.36
+Selected invasive infections,,,231,,3.62,3.15,4.09
+Transport accidents,,,241,,3.25,2.83,3.67
+Skin cancer,,,203,,3.19,2.75,3.63
+Prostate cancer,,,170,,2.87,2.44,3.3
+Complications of the perinatal period,,,162,,2.02,1.71,2.33
+Kidney cancer,,,121,,1.94,1.59,2.29
+Falls,,,113,,1.79,1.46,2.13
+Renal failure,,,101,,1.62,1.3,1.93
+Rheumatic and other valvular heart disease,,,91,,1.43,1.14,1.73
+Heart failure,,,67,,1.06,0.8,1.31
+Assault,,,81,,1.05,0.82,1.29
+Event of undetermined intent,,,71,,0.92,0.7,1.13
+Cervical cancer,,,51,,0.73,0.53,0.93
+Asthma,,,46,,0.67,0.47,0.87
+Hypertensive heart and renal disease,,,40,,0.65,0.45,0.85
+Pulmonary embolism,,,39,,0.61,0.42,0.8
+Accidental drowning and submersion,,,30,,0.41,0.26,0.56
+Thyroid cancer,,,25,,0.4,0.24,0.56
+Pepticulcer disease,,,25,,0.4,0.24,0.55
+HIV / AIDS,,,24,,0.35,0.21,0.5
+Other accidental threats to breathing,,,23,,0.35,0.21,0.5
+Viral pneumonia and influenza,,,18,,0.27,0.14,0.4
+"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",,,17,,0.26,0.14,0.39
+Accidental exposure to other and unspecified factors,,,15,,0.24,0.12,0.36
+Exposure to inanimate mechanical forces,,,16,,0.22,0.11,0.34
+Hodgkins disease,,,13,,0.19,0.09,0.29
+Acute lymphoid leukaemia/Acute lymphoblastic leukaemia,,,14,,0.18,0.09,0.28
+Sequelae of external causes of morbidity and mortality,,,11,,0.17,0.07,0.27
+"Drugs, medicaments and biological substances causing adverse effects in therapeutic use",,,8,,0.13,0.04,0.22
+"Fires, burns",,,9,,0.13,0.04,0.21
+Exposure to forces of nature,,,5,,0.07,0.01,0.14
+"Exposure to electric current, radiation and extreme ambient air temperature and pressure",,,5,,0.06,0.01,0.12
+"Complications of pregnancy, labour or the puerperium",,,5,,0.06,0.01,0.1

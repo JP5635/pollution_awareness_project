@@ -1,0 +1,32 @@
+AM Condition,,,Number of deaths,,"Standardised Rate per 100,000 Persons",Lower limit of 95% CI,Upper limit of 95% CI
+Total avoidable mortality,,,1997,,131.67,125.68,137.66
+Ischaemic heart disease,,,421,,27.1,24.45,29.75
+Suicide and self-inflicted injuries,,,161,,14.32,12.04,16.6
+Transport accidents,,,121,,11.04,9.01,13.07
+COPD,,,164,,9.63,8.14,11.12
+Colorectal cancer,,,142,,8.92,7.41,10.43
+Cerebrovascular diseases,,,141,,8.91,7.4,10.41
+Breast cancer,,,124,,8.48,6.95,10.02
+Accidental poisoning by and exposure to noxious substances,,,78,,7.5,5.8,9.2
+Diabetes,,,99,,6.06,4.84,7.28
+Skin cancer,,,90,,5.94,4.69,7.2
+Prostate cancer,,,79,,4.54,3.53,5.54
+Selected invasive infections,,,48,,3.1,2.2,3.99
+Kidney cancer,,,50,,3.09,2.22,3.95
+Complications of the perinatal period,,,31,,2.77,1.8,3.75
+Falls,,,36,,2.2,1.46,2.93
+Renal failure,,,26,,1.67,1.01,2.33
+Rheumatic and other valvular heart disease,,,24,,1.51,0.89,2.13
+Hypertensive heart and renal disease,,,22,,1.41,0.81,2.02
+Event of undetermined intent,,,15,,1.28,0.61,1.95
+Accidental drowning and submersion,,,11,,1.06,0.41,1.72
+Pulmonary embolism,,,12,,0.89,0.36,1.42
+Assault,,,9,,0.89,0.29,1.48
+Heart failure,,,14,,0.86,0.4,1.31
+Pepticulcer disease,,,10,,0.64,0.24,1.04
+Cervical cancer,,,9,,0.61,0.19,1.03
+Asthma,,,6,,0.56,0.1,1.01
+Accidental exposure to other and unspecified factors,,,8,,0.5,0.15,0.86
+Sequelae of external causes of morbidity and mortality,,,7,,0.5,0.11,0.88
+"Fires, burns",,,5,,0.39,0.02,0.76
+"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",,,5,,0.37,0.03,0.71
