@@ -1,0 +1,80 @@
+sp_name,param_id,value
+Alphington,API,0.53
+Alphington,BPM2.5,8.07
+Alphington,CO,0.28
+Alphington,HPM10,15.61
+Alphington,NO2,9.59
+Alphington,O3,14.67
+Alphington,PM10,15.31
+Alphington,PPM2.5,7.13
+Alphington,SO2,0.48
+Altona North,NO2,9.16
+Altona North,O3,16.32
+Altona North,SO2,1.47
+Box.Hill,API,0.5
+Box.Hill,CO,0.15
+Box.Hill,NO2,8.23
+Box.Hill,O3,16.07
+Box.Hill,PM10,15.47
+Box.Hill,SO2,-0.11
+Brighton,API,0.5
+Brighton,NO2,7.92
+Brighton,O3,16.68
+Brighton,PM10,16.01
+Brooklyn,API,0.55
+Brooklyn,PM10,22.95
+Churchill,BPM2.5,7.04
+Dandenong,API,0.51
+Dandenong,NO2,10.16
+Dandenong,O3,15.63
+Dandenong,PM10,17.31
+Footscray,API,0.51
+Footscray,BPM2.5,7.18
+Footscray,CO,0.21
+Footscray,HPM10,18.3
+Footscray,NO2,10.47
+Footscray,O3,15.14
+Footscray,PM10,17.14
+Footscray,PPM2.5,6.52
+Footscray,SO2,0.85
+Geelong South,API,0.48
+Geelong South,BPM2.5,5.33
+Geelong South,CO,0.14
+Geelong South,NO2,5.91
+Geelong South,O3,17.15
+Geelong South,PM10,18.15
+Geelong South,SO2,0.6
+Melton,O3,18.52
+Moe,BPM2.5,6.6
+Mooroolbark,API,0.55
+Mooroolbark,CO,0.24
+Mooroolbark,NO2,6.9
+Mooroolbark,O3,16.19
+Mooroolbark,PM10,16.64
+Morwell East,API,0.61
+Morwell East,BPM2.5,7.96
+Morwell East,CO,0.13
+Morwell East,NO2,6.35
+Morwell East,O3,31.0
+Morwell East,PM10,18.14
+Morwell East,SO2,0.66
+Morwell South,API,0.75
+Morwell South,BPM2.5,12.57
+Morwell South,CO,0.23
+Morwell South,NO2,5.6
+Morwell South,O3,16.04
+Morwell South,SO2,0.61
+Point Cook,API,0.46
+Point Cook,NO2,4.87
+Point Cook,O3,19.02
+Richmond,API,0.52
+Richmond,CO,0.21
+Richmond,NO2,10.68
+Richmond,PM10,16.09
+Traralgon,API,0.59
+Traralgon,BPM2.5,7.72
+Traralgon,CO,0.18
+Traralgon,NO2,6.33
+Traralgon,O3,14.21
+Traralgon,PM10,14.39
+Traralgon,SO2,1.12

@@ -1,0 +1,697 @@
+sp_name,month,param_id,value
+Alphington,1,API,0.93
+Alphington,1,CO,0.3
+Alphington,1,NO2,6.4
+Alphington,1,O3,25.04
+Alphington,1,PM10,25.22
+Alphington,1,PPM2.5,13.18
+Alphington,1,SO2,0.35
+Alphington,2,API,0.7
+Alphington,2,CO,0.32
+Alphington,2,NO2,8.31
+Alphington,2,O3,27.55
+Alphington,2,PM10,23.71
+Alphington,2,PPM2.5,8.55
+Alphington,2,SO2,0.75
+Alphington,3,API,0.54
+Alphington,3,CO,0.32
+Alphington,3,NO2,8.92
+Alphington,3,O3,17.4
+Alphington,3,PM10,21.34
+Alphington,3,PPM2.5,6.85
+Alphington,3,SO2,0.84
+Alphington,4,API,0.8
+Alphington,4,CO,0.53
+Alphington,4,NO2,11.57
+Alphington,4,O3,10.82
+Alphington,4,PM10,22.84
+Alphington,4,PPM2.5,12.13
+Alphington,4,SO2,0.96
+Alphington,5,API,0.56
+Alphington,5,CO,0.46
+Alphington,5,NO2,11.64
+Alphington,5,O3,11.35
+Alphington,5,PM10,15.5
+Alphington,5,PPM2.5,6.48
+Alphington,5,SO2,0.67
+Alphington,6,API,0.77
+Alphington,6,CO,0.63
+Alphington,6,NO2,17.15
+Alphington,6,O3,11.12
+Alphington,6,PM10,16.03
+Alphington,6,PPM2.5,9.73
+Alphington,6,SO2,1.25
+Alphington,7,API,0.6
+Alphington,7,CO,0.53
+Alphington,7,NO2,15.76
+Alphington,7,O3,13.88
+Alphington,7,PM10,12.33
+Alphington,7,PPM2.5,8.27
+Alphington,7,SO2,0.95
+Alphington,8,API,0.55
+Alphington,8,CO,0.49
+Alphington,8,NO2,14.84
+Alphington,8,O3,15.83
+Alphington,8,PM10,15.52
+Alphington,8,PPM2.5,8.17
+Alphington,8,SO2,0.76
+Alphington,9,API,0.48
+Alphington,9,CO,0.37
+Alphington,9,NO2,12.68
+Alphington,9,O3,18.52
+Alphington,9,PM10,16.53
+Alphington,9,PPM2.5,5.2
+Alphington,9,SO2,0.29
+Alphington,10,API,0.49
+Alphington,10,CO,0.29
+Alphington,10,NO2,11.33
+Alphington,10,O3,19.64
+Alphington,10,PM10,19.58
+Alphington,10,PPM2.5,6.92
+Alphington,10,SO2,0.21
+Alphington,11,API,0.58
+Alphington,11,CO,0.28
+Alphington,11,NO2,10.82
+Alphington,11,O3,19.84
+Alphington,11,PM10,17.13
+Alphington,11,PPM2.5,6.04
+Alphington,11,SO2,0.36
+Alphington,12,API,0.5
+Alphington,12,CO,0.2
+Alphington,12,NO2,8.29
+Alphington,12,O3,20.03
+Alphington,12,PM10,18.56
+Alphington,12,PPM2.5,6.25
+Alphington,12,SO2,0.32
+Altona North,1,NO2,7.3
+Altona North,1,O3,22.2
+Altona North,1,SO2,1.31
+Altona North,2,NO2,8.39
+Altona North,2,O3,25.56
+Altona North,2,SO2,0.74
+Altona North,3,NO2,9.43
+Altona North,3,O3,18.73
+Altona North,3,SO2,2.04
+Altona North,4,NO2,13.97
+Altona North,4,O3,12.69
+Altona North,4,SO2,2.14
+Altona North,5,NO2,12.8
+Altona North,5,O3,15.7
+Altona North,5,SO2,0.78
+Altona North,6,NO2,11.96
+Altona North,6,O3,18.09
+Altona North,6,SO2,1.88
+Altona North,7,NO2,13.03
+Altona North,7,O3,17.26
+Altona North,7,SO2,1.77
+Altona North,8,NO2,12.52
+Altona North,8,O3,18.35
+Altona North,8,SO2,1.25
+Altona North,9,NO2,10.91
+Altona North,9,O3,21.94
+Altona North,9,SO2,1.1
+Altona North,10,NO2,7.82
+Altona North,10,O3,25.28
+Altona North,10,SO2,1.57
+Altona North,11,NO2,7.27
+Altona North,11,O3,27.36
+Altona North,11,SO2,1.38
+Altona North,12,NO2,6.95
+Altona North,12,O3,26.83
+Altona North,12,SO2,1.7
+Box.Hill,1,API,1.13
+Box.Hill,1,CO,0.27
+Box.Hill,1,NO2,8.08
+Box.Hill,1,O3,19.85
+Box.Hill,1,PM10,26.88
+Box.Hill,1,SO2,0.36
+Box.Hill,2,API,0.76
+Box.Hill,2,CO,0.23
+Box.Hill,2,NO2,9.73
+Box.Hill,2,O3,25.06
+Box.Hill,2,PM10,17.2
+Box.Hill,2,SO2,0.38
+Box.Hill,3,API,0.5
+Box.Hill,3,CO,0.22
+Box.Hill,3,NO2,10.22
+Box.Hill,3,O3,18.04
+Box.Hill,3,PM10,16.07
+Box.Hill,3,SO2,0.4
+Box.Hill,4,API,0.81
+Box.Hill,4,CO,0.35
+Box.Hill,4,NO2,13.83
+Box.Hill,4,O3,15.54
+Box.Hill,4,PM10,17.15
+Box.Hill,4,SO2,0.58
+Box.Hill,5,API,0.47
+Box.Hill,5,CO,0.27
+Box.Hill,5,NO2,11.03
+Box.Hill,5,O3,16.91
+Box.Hill,5,PM10,13.47
+Box.Hill,5,SO2,0.34
+Box.Hill,6,API,0.66
+Box.Hill,6,CO,0.47
+Box.Hill,6,NO2,16.07
+Box.Hill,6,O3,10.09
+Box.Hill,6,PM10,13.46
+Box.Hill,6,SO2,0.8
+Box.Hill,7,API,0.51
+Box.Hill,7,CO,0.35
+Box.Hill,7,NO2,12.21
+Box.Hill,7,O3,14.45
+Box.Hill,7,PM10,9.87
+Box.Hill,7,SO2,0.51
+Box.Hill,8,API,0.47
+Box.Hill,8,CO,0.34
+Box.Hill,8,NO2,11.82
+Box.Hill,8,O3,18.2
+Box.Hill,8,PM10,12.9
+Box.Hill,8,SO2,0.5
+Box.Hill,9,API,0.41
+Box.Hill,9,CO,0.23
+Box.Hill,9,NO2,9.47
+Box.Hill,9,O3,21.6
+Box.Hill,9,PM10,13.49
+Box.Hill,9,SO2,0.31
+Box.Hill,10,API,0.48
+Box.Hill,10,CO,0.26
+Box.Hill,10,NO2,8.94
+Box.Hill,10,O3,22.12
+Box.Hill,10,PM10,17.12
+Box.Hill,10,SO2,0.45
+Box.Hill,11,API,0.56
+Box.Hill,11,CO,0.2
+Box.Hill,11,NO2,8.99
+Box.Hill,11,O3,23.08
+Box.Hill,11,PM10,16.91
+Box.Hill,11,SO2,0.38
+Box.Hill,12,API,0.49
+Box.Hill,12,CO,0.15
+Box.Hill,12,NO2,7.29
+Box.Hill,12,O3,24.7
+Box.Hill,12,PM10,16.41
+Box.Hill,12,SO2,0.35
+Brighton,1,API,0.94
+Brighton,1,NO2,5.84
+Brighton,1,O3,24.07
+Brighton,1,PM10,19.79
+Brighton,2,API,0.66
+Brighton,2,NO2,5.65
+Brighton,2,O3,27.75
+Brighton,2,PM10,18.06
+Brighton,3,API,0.52
+Brighton,3,NO2,7.06
+Brighton,3,O3,21.67
+Brighton,3,PM10,16.9
+Brighton,4,API,0.75
+Brighton,4,NO2,11.73
+Brighton,4,O3,18.12
+Brighton,4,PM10,16.94
+Brighton,5,API,0.48
+Brighton,5,NO2,10.5
+Brighton,5,O3,17.67
+Brighton,5,PM10,9.65
+Brighton,6,API,0.6
+Brighton,6,NO2,11.1
+Brighton,6,O3,17.77
+Brighton,6,PM10,10.83
+Brighton,7,API,0.51
+Brighton,7,NO2,11.1
+Brighton,7,O3,17.74
+Brighton,7,PM10,8.34
+Brighton,8,API,0.49
+Brighton,8,NO2,12.4
+Brighton,8,O3,18.7
+Brighton,8,PM10,11.49
+Brighton,9,API,0.44
+Brighton,9,NO2,9.79
+Brighton,9,O3,22.66
+Brighton,9,PM10,12.86
+Brighton,10,API,0.48
+Brighton,10,NO2,8.09
+Brighton,10,O3,24.62
+Brighton,10,PM10,16.09
+Brighton,11,API,0.59
+Brighton,11,NO2,8.31
+Brighton,11,O3,25.02
+Brighton,11,PM10,15.06
+Brighton,12,API,0.5
+Brighton,12,NO2,6.77
+Brighton,12,O3,24.46
+Brighton,12,PM10,15.62
+Dandenong,1,API,0.98
+Dandenong,1,NO2,7.48
+Dandenong,1,O3,20.4
+Dandenong,1,PM10,26.53
+Dandenong,2,API,0.68
+Dandenong,2,NO2,8.87
+Dandenong,2,O3,23.17
+Dandenong,2,PM10,28.92
+Dandenong,3,API,0.55
+Dandenong,3,NO2,9.86
+Dandenong,3,O3,18.24
+Dandenong,3,PM10,24.27
+Dandenong,4,API,0.81
+Dandenong,4,NO2,14.74
+Dandenong,4,O3,13.03
+Dandenong,4,PM10,25.86
+Dandenong,5,API,0.53
+Dandenong,5,NO2,10.99
+Dandenong,5,O3,14.91
+Dandenong,5,PM10,14.82
+Dandenong,6,API,0.72
+Dandenong,6,NO2,15.16
+Dandenong,6,O3,11.96
+Dandenong,6,PM10,17.55
+Dandenong,7,API,0.56
+Dandenong,7,NO2,12.72
+Dandenong,7,O3,14.7
+Dandenong,7,PM10,11.5
+Dandenong,8,API,0.51
+Dandenong,8,NO2,12.89
+Dandenong,8,O3,15.01
+Dandenong,8,PM10,13.3
+Dandenong,9,API,0.46
+Dandenong,9,NO2,10.39
+Dandenong,9,O3,18.77
+Dandenong,9,PM10,15.23
+Dandenong,10,API,0.51
+Dandenong,10,NO2,8.96
+Dandenong,10,O3,19.73
+Dandenong,10,PM10,21.25
+Dandenong,11,API,0.61
+Dandenong,11,NO2,9.1
+Dandenong,11,O3,20.43
+Dandenong,11,PM10,22.11
+Dandenong,12,API,0.51
+Dandenong,12,NO2,7.1
+Dandenong,12,O3,21.25
+Dandenong,12,PM10,20.61
+Footscray,1,API,0.84
+Footscray,1,CO,0.21
+Footscray,1,NO2,8.7
+Footscray,1,O3,19.41
+Footscray,1,PM10,24.08
+Footscray,1,PPM2.5,10.89
+Footscray,1,SO2,1.2
+Footscray,2,API,0.72
+Footscray,2,CO,0.22
+Footscray,2,NO2,10.8
+Footscray,2,O3,22.14
+Footscray,2,PM10,24.77
+Footscray,2,PPM2.5,11.04
+Footscray,2,SO2,1.71
+Footscray,3,API,0.54
+Footscray,3,CO,0.21
+Footscray,3,NO2,11.34
+Footscray,3,O3,16.75
+Footscray,3,PM10,23.02
+Footscray,3,PPM2.5,7.2
+Footscray,3,SO2,1.18
+Footscray,4,API,0.71
+Footscray,4,CO,0.38
+Footscray,4,NO2,16.68
+Footscray,4,O3,13.23
+Footscray,4,PM10,22.86
+Footscray,4,PPM2.5,10.23
+Footscray,4,SO2,1.51
+Footscray,5,API,0.49
+Footscray,5,CO,0.24
+Footscray,5,NO2,12.84
+Footscray,5,O3,14.81
+Footscray,5,PM10,13.73
+Footscray,5,PPM2.5,5.8
+Footscray,5,SO2,0.46
+Footscray,6,API,0.55
+Footscray,6,CO,0.29
+Footscray,6,NO2,15.53
+Footscray,6,O3,13.7
+Footscray,6,PM10,13.82
+Footscray,6,PPM2.5,6.66
+Footscray,6,SO2,1.22
+Footscray,7,API,0.48
+Footscray,7,CO,0.28
+Footscray,7,NO2,14.7
+Footscray,7,O3,14.56
+Footscray,7,PM10,11.51
+Footscray,7,PPM2.5,6.8
+Footscray,7,SO2,0.85
+Footscray,8,API,0.47
+Footscray,8,CO,0.26
+Footscray,8,NO2,13.89
+Footscray,8,O3,16.41
+Footscray,8,PM10,17.79
+Footscray,8,PPM2.5,6.83
+Footscray,8,SO2,0.77
+Footscray,9,API,0.43
+Footscray,9,CO,0.16
+Footscray,9,NO2,12.34
+Footscray,9,O3,19.44
+Footscray,9,PM10,16.88
+Footscray,9,PPM2.5,4.65
+Footscray,9,SO2,0.58
+Footscray,10,API,0.5
+Footscray,10,CO,0.16
+Footscray,10,NO2,10.09
+Footscray,10,O3,21.22
+Footscray,10,PM10,21.52
+Footscray,10,PPM2.5,6.84
+Footscray,10,SO2,0.5
+Footscray,11,API,0.64
+Footscray,11,CO,0.2
+Footscray,11,NO2,11.63
+Footscray,11,O3,21.69
+Footscray,11,PM10,19.45
+Footscray,11,PPM2.5,7.03
+Footscray,11,SO2,1.74
+Footscray,12,API,0.58
+Footscray,12,CO,0.17
+Footscray,12,NO2,9.31
+Footscray,12,O3,21.03
+Footscray,12,PM10,21.54
+Footscray,12,PPM2.5,6.75
+Footscray,12,SO2,1.33
+Geelong South,1,API,0.77
+Geelong South,1,CO,0.02
+Geelong South,1,NO2,4.03
+Geelong South,1,O3,20.03
+Geelong South,1,PM10,27.99
+Geelong South,1,SO2,0.99
+Geelong South,2,API,0.64
+Geelong South,2,CO,0.02
+Geelong South,2,NO2,4.43
+Geelong South,2,O3,22.66
+Geelong South,2,PM10,28.74
+Geelong South,2,SO2,1.14
+Geelong South,3,API,0.56
+Geelong South,3,CO,0.03
+Geelong South,3,NO2,5.6
+Geelong South,3,O3,18.76
+Geelong South,3,PM10,28.12
+Geelong South,3,SO2,1.02
+Geelong South,4,API,0.65
+Geelong South,4,CO,0.06
+Geelong South,4,NO2,8.48
+Geelong South,4,O3,16.69
+Geelong South,4,PM10,24.7
+Geelong South,4,SO2,1.19
+Geelong South,5,API,0.51
+Geelong South,5,CO,0.24
+Geelong South,5,NO2,8.6
+Geelong South,5,O3,15.0
+Geelong South,5,PM10,18.11
+Geelong South,5,SO2,1.07
+Geelong South,6,API,0.46
+Geelong South,6,CO,0.25
+Geelong South,6,NO2,7.7
+Geelong South,6,O3,17.36
+Geelong South,6,PM10,12.62
+Geelong South,6,SO2,0.47
+Geelong South,7,API,0.48
+Geelong South,7,CO,0.32
+Geelong South,7,NO2,8.54
+Geelong South,7,O3,16.56
+Geelong South,7,PM10,12.98
+Geelong South,7,SO2,0.88
+Geelong South,8,API,0.44
+Geelong South,8,CO,0.25
+Geelong South,8,NO2,7.47
+Geelong South,8,O3,19.9
+Geelong South,8,PM10,18.63
+Geelong South,8,SO2,0.91
+Geelong South,9,API,0.41
+Geelong South,9,CO,0.22
+Geelong South,9,NO2,6.13
+Geelong South,9,O3,23.51
+Geelong South,9,PM10,16.07
+Geelong South,9,SO2,0.73
+Geelong South,10,API,0.46
+Geelong South,10,CO,0.16
+Geelong South,10,NO2,4.86
+Geelong South,10,O3,26.31
+Geelong South,10,PM10,24.11
+Geelong South,10,SO2,0.53
+Geelong South,11,API,0.55
+Geelong South,11,CO,0.21
+Geelong South,11,NO2,3.89
+Geelong South,11,O3,26.01
+Geelong South,11,PM10,18.15
+Geelong South,11,SO2,1.26
+Geelong South,12,API,0.48
+Geelong South,12,CO,0.2
+Geelong South,12,NO2,3.87
+Geelong South,12,O3,24.17
+Geelong South,12,PM10,19.74
+Geelong South,12,SO2,1.01
+Melton,1,O3,24.33
+Melton,2,O3,28.14
+Melton,3,O3,22.48
+Melton,4,O3,18.85
+Melton,5,O3,20.04
+Melton,6,O3,19.79
+Melton,7,O3,21.19
+Melton,8,O3,20.45
+Melton,9,O3,21.86
+Melton,10,O3,24.3
+Melton,11,O3,27.62
+Melton,12,O3,30.41
+Mooroolbark,1,API,1.2
+Mooroolbark,1,CO,0.13
+Mooroolbark,1,NO2,4.46
+Mooroolbark,1,O3,20.91
+Mooroolbark,1,PM10,30.16
+Mooroolbark,2,API,0.65
+Mooroolbark,2,CO,0.09
+Mooroolbark,2,NO2,6.38
+Mooroolbark,2,O3,24.83
+Mooroolbark,2,PM10,24.63
+Mooroolbark,3,API,0.54
+Mooroolbark,3,CO,0.11
+Mooroolbark,3,NO2,7.12
+Mooroolbark,3,O3,18.78
+Mooroolbark,3,PM10,22.47
+Mooroolbark,4,API,1.13
+Mooroolbark,4,CO,0.18
+Mooroolbark,4,NO2,8.95
+Mooroolbark,4,O3,15.95
+Mooroolbark,4,PM10,27.88
+Mooroolbark,5,API,0.66
+Mooroolbark,5,CO,0.2
+Mooroolbark,5,NO2,7.78
+Mooroolbark,5,O3,16.51
+Mooroolbark,5,PM10,20.18
+Mooroolbark,6,API,0.94
+Mooroolbark,6,CO,0.43
+Mooroolbark,6,NO2,11.47
+Mooroolbark,6,O3,12.31
+Mooroolbark,6,PM10,19.58
+Mooroolbark,7,API,0.72
+Mooroolbark,7,CO,0.33
+Mooroolbark,7,NO2,9.81
+Mooroolbark,7,O3,15.58
+Mooroolbark,7,PM10,14.46
+Mooroolbark,8,API,0.63
+Mooroolbark,8,CO,0.21
+Mooroolbark,8,NO2,8.21
+Mooroolbark,8,O3,17.56
+Mooroolbark,8,PM10,18.24
+Mooroolbark,9,API,0.51
+Mooroolbark,9,CO,0.1
+Mooroolbark,9,NO2,5.71
+Mooroolbark,9,O3,21.94
+Mooroolbark,9,PM10,17.16
+Mooroolbark,10,API,0.57
+Mooroolbark,10,CO,0.07
+Mooroolbark,10,NO2,6.67
+Mooroolbark,10,O3,21.68
+Mooroolbark,10,PM10,20.27
+Mooroolbark,11,API,0.61
+Mooroolbark,11,CO,0.04
+Mooroolbark,11,NO2,6.17
+Mooroolbark,11,O3,23.76
+Mooroolbark,11,PM10,18.58
+Mooroolbark,12,API,0.55
+Mooroolbark,12,CO,0.03
+Mooroolbark,12,NO2,5.13
+Mooroolbark,12,O3,22.68
+Mooroolbark,12,PM10,18.5
+Point Cook,1,API,0.87
+Point Cook,1,NO2,3.14
+Point Cook,1,O3,19.66
+Point Cook,2,API,0.64
+Point Cook,2,NO2,3.25
+Point Cook,2,O3,23.69
+Point Cook,3,API,0.5
+Point Cook,3,NO2,4.18
+Point Cook,3,O3,19.49
+Point Cook,4,API,0.64
+Point Cook,4,NO2,6.77
+Point Cook,4,O3,19.3
+Point Cook,5,API,0.45
+Point Cook,5,NO2,5.76
+Point Cook,5,O3,19.61
+Point Cook,6,API,0.44
+Point Cook,6,NO2,4.07
+Point Cook,6,O3,22.79
+Point Cook,7,API,0.42
+Point Cook,7,NO2,5.39
+Point Cook,7,O3,21.96
+Point Cook,8,API,0.4
+Point Cook,8,NO2,5.06
+Point Cook,8,O3,23.54
+Point Cook,9,API,0.39
+Point Cook,9,NO2,4.05
+Point Cook,9,O3,26.57
+Point Cook,10,API,0.44
+Point Cook,10,NO2,1.46
+Point Cook,10,O3,29.47
+Point Cook,11,API,0.58
+Point Cook,11,NO2,2.67
+Point Cook,11,O3,29.93
+Point Cook,12,API,0.48
+Point Cook,12,NO2,3.6
+Point Cook,12,O3,23.58
+Richmond,1,API,0.96
+Richmond,1,CO,0.09
+Richmond,1,NO2,9.06
+Richmond,1,PM10,25.21
+Richmond,2,API,0.73
+Richmond,2,CO,0.09
+Richmond,2,NO2,10.6
+Richmond,2,PM10,22.02
+Richmond,3,API,0.53
+Richmond,3,CO,0.11
+Richmond,3,NO2,11.97
+Richmond,3,PM10,17.93
+Richmond,4,API,0.8
+Richmond,4,CO,0.25
+Richmond,4,NO2,16.29
+Richmond,4,PM10,19.57
+Richmond,5,API,0.54
+Richmond,5,CO,0.2
+Richmond,5,NO2,13.82
+Richmond,5,PM10,15.01
+Richmond,6,API,0.67
+Richmond,6,CO,0.3
+Richmond,6,NO2,18.8
+Richmond,6,PM10,14.82
+Richmond,7,API,0.55
+Richmond,7,CO,0.22
+Richmond,7,NO2,16.24
+Richmond,7,PM10,10.6
+Richmond,8,API,0.51
+Richmond,8,CO,0.24
+Richmond,8,NO2,16.57
+Richmond,8,PM10,15.27
+Richmond,9,API,0.45
+Richmond,9,CO,0.1
+Richmond,9,NO2,14.09
+Richmond,9,PM10,15.72
+Richmond,10,API,0.49
+Richmond,10,CO,0.25
+Richmond,10,NO2,12.2
+Richmond,10,PM10,16.65
+Richmond,11,API,0.59
+Richmond,11,CO,0.29
+Richmond,11,NO2,10.44
+Richmond,11,PM10,16.19
+Richmond,12,API,0.5
+Richmond,12,CO,0.24
+Richmond,12,NO2,7.09
+Richmond,12,PM10,16.76
+Traralgon,1,API,1.48
+Traralgon,1,NO2,5.45
+Traralgon,1,O3,20.5
+Traralgon,1,PM10,28.82
+Traralgon,1,SO2,2.34
+Traralgon,2,API,0.55
+Traralgon,2,NO2,6.06
+Traralgon,2,O3,21.8
+Traralgon,2,PM10,20.31
+Traralgon,2,SO2,2.08
+Traralgon,3,API,0.46
+Traralgon,3,NO2,6.42
+Traralgon,3,O3,16.65
+Traralgon,3,PM10,17.2
+Traralgon,3,SO2,2.51
+Traralgon,4,API,0.89
+Traralgon,4,NO2,7.92
+Traralgon,4,O3,15.01
+Traralgon,4,PM10,24.64
+Traralgon,4,SO2,2.36
+Traralgon,5,API,0.7
+Traralgon,5,NO2,7.7
+Traralgon,5,O3,13.64
+Traralgon,5,PM10,16.73
+Traralgon,5,SO2,4.12
+Traralgon,6,API,0.68
+Traralgon,6,NO2,8.93
+Traralgon,6,O3,13.69
+Traralgon,6,PM10,13.63
+Traralgon,6,SO2,4.7
+Traralgon,7,API,0.67
+Traralgon,7,NO2,9.16
+Traralgon,7,O3,14.62
+Traralgon,7,PM10,13.76
+Traralgon,7,SO2,3.34
+Traralgon,8,API,0.58
+Traralgon,8,NO2,8.32
+Traralgon,8,O3,17.36
+Traralgon,8,PM10,8.78
+Traralgon,8,SO2,1.45
+Traralgon,9,API,0.49
+Traralgon,9,NO2,7.43
+Traralgon,9,O3,17.91
+Traralgon,9,PM10,12.67
+Traralgon,9,SO2,1.73
+Traralgon,10,API,0.49
+Traralgon,10,NO2,4.04
+Traralgon,10,O3,19.92
+Traralgon,10,PM10,17.58
+Traralgon,10,SO2,2.33
+Traralgon,11,API,0.53
+Traralgon,11,NO2,4.68
+Traralgon,11,O3,18.88
+Traralgon,11,PM10,17.49
+Traralgon,11,SO2,2.1
+Traralgon,12,API,0.49
+Traralgon,12,NO2,2.73
+Traralgon,12,O3,17.76
+Traralgon,12,PM10,19.24
+Traralgon,12,SO2,1.37
+Wangaratta,1,API,1.75
+Wangaratta,1,O3,27.0
+Wangaratta,1,PM10,37.45
+Wangaratta,2,API,0.56
+Wangaratta,2,O3,27.09
+Wangaratta,2,PM10,23.4
+Wangaratta,3,API,0.47
+Wangaratta,3,O3,17.91
+Wangaratta,3,PM10,21.19
+Wangaratta,4,API,0.76
+Wangaratta,4,O3,14.97
+Wangaratta,4,PM10,29.37
+Wangaratta,5,API,0.66
+Wangaratta,5,O3,11.44
+Wangaratta,5,PM10,17.41
+Wangaratta,6,API,0.68
+Wangaratta,6,O3,12.58
+Wangaratta,6,PM10,14.81
+Wangaratta,7,API,0.61
+Wangaratta,7,O3,13.26
+Wangaratta,7,PM10,13.87
+Wangaratta,8,API,0.59
+Wangaratta,8,O3,14.42
+Wangaratta,8,PM10,18.65
+Wangaratta,9,API,0.48
+Wangaratta,9,O3,19.43
+Wangaratta,9,PM10,17.25
+Wangaratta,10,API,0.45
+Wangaratta,10,O3,23.84
+Wangaratta,10,PM10,22.73
+Wangaratta,11,API,0.39
+Wangaratta,11,O3,28.48
+Wangaratta,11,PM10,14.8
+Wangaratta,12,API,0.47
+Wangaratta,12,O3,28.99
+Wangaratta,12,PM10,19.47

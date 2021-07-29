@@ -1,0 +1,64 @@
+sp_name,param_id,value
+Alphington,API,0.59
+Alphington,CO,0.24
+Alphington,NO2,10.34
+Alphington,O3,14.13
+Alphington,PM10,17.82
+Alphington,PPM2.5,7.72
+Alphington,SO2,0.07
+Altona North,NO2,9.71
+Altona North,O3,17.11
+Altona North,SO2,1.78
+Box.Hill,API,0.55
+Box.Hill,CO,0.27
+Box.Hill,NO2,8.76
+Box.Hill,O3,16.19
+Box.Hill,PM10,15.81
+Box.Hill,SO2,-0.5
+Brighton,API,0.56
+Brighton,NO2,8.95
+Brighton,O3,17.88
+Brighton,PM10,16.24
+Brooklyn,API,0.58
+Brooklyn,PM10,21.77
+Brooklyn,PPM2.5,7.05
+Brooklyn School,PM10,26.88
+Dandenong,API,0.58
+Dandenong,NO2,10.67
+Dandenong,O3,15.87
+Dandenong,PM10,18.86
+Footscray,API,0.54
+Footscray,CO,0.22
+Footscray,NO2,11.55
+Footscray,O3,15.55
+Footscray,PM10,19.14
+Footscray,PPM2.5,7.05
+Footscray,SO2,1.11
+Geelong South,API,0.51
+Geelong South,CO,0.18
+Geelong South,NO2,6.28
+Geelong South,O3,18.25
+Geelong South,PM10,19.5
+Geelong South,SO2,0.92
+Melton,O3,19.25
+Mooroolbark,API,0.67
+Mooroolbark,CO,0.22
+Mooroolbark,NO2,7.02
+Mooroolbark,O3,16.5
+Mooroolbark,PM10,19.92
+Point Cook,API,0.5
+Point Cook,NO2,5.29
+Point Cook,O3,19.26
+Richmond,API,0.59
+Richmond,CO,0.33
+Richmond,NO2,12.38
+Richmond,PM10,17.15
+Sunshine West,PM10,16.76
+Traralgon,API,0.6
+Traralgon,NO2,6.75
+Traralgon,O3,14.55
+Traralgon,PM10,16.79
+Traralgon,SO2,2.03
+Wangaratta,API,0.66
+Wangaratta,O3,19.95
+Wangaratta,PM10,20.87
